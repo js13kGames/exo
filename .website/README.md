@@ -1,4 +1,8 @@
 ---
+genres:
+  - tower-defense
+  - strategy
+  - simulation
 post: https://web.archive.org/web/20201102235447/http://jack-oatley.com/index.php?post=blog/2018_09_17_Exo.htm
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
